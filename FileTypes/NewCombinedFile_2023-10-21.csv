@@ -1,0 +1,21 @@
+name,date,height,weight,Source
+Jack Johnson,3/31/78,184,91,CSVtest3.csv
+Muhammad Ali,6/30/66,191,97,CSVtest3.csv
+Brock Bricks,4/10/2019,185,95,CSVtest2.csv
+Jack Brack,6/7/2019,172,91,CSVtest2.csv
+Jack Smith,4/1/2019,185,91,CSVtest.csv
+Jack Black,4/2/2019,183,91,CSVtest.csv
+Rock Royden,2019-05-02 00:00:00,160,52,EXCELtest2.xlsx
+Brandon Snads,2019-10-02 00:00:00,175,80,EXCELtest2.xlsx
+Jen Smith,2019-05-02 00:00:00,153,50,EXCELtest.xlsx
+Sam Smith,2019-01-02 00:00:00,160,55,EXCELtest.xlsx
+Michael Jordan,1963-02-17 00:00:00,198,98,EXCELtest3.xlsx
+Lebron James,1984-12-30 00:00:00,206,113,EXCELtest3.xlsx
+Michael Jackson,06/05/2009,175,60,JSONtest4.json
+Jane Smith,09/02/2019,170,75,JSONtest.json
+Jane Jackson,09/03/2019,172,74,JSONtest2.json
+Becky Jackson,04/03/2019,165,70,JSONtest3.json
+Joseph Smith,12/23/05,183,95,XMLtest4.xml
+John Smithe,03/08/2019,185,101,XMLtest2.xml
+Brett Smithe,05/08/2019,179,99,XMLtest3.xml
+John Smith,02/08/2019,180,100,XMLtest.xml
